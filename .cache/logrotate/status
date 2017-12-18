@@ -1,0 +1,21 @@
+logrotate state -- version 2
+"/home/shenwan/.cache/upstart/session-migration.log" 2017-10-23-9:41:34
+"/home/shenwan/.cache/upstart/indicator-datetime.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/unity-panel-service.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/ssh-agent.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/indicator-power.log" 2017-10-6-19:0:0
+"/home/shenwan/.cache/upstart/bamfdaemon.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/gnome-keyring-ssh.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/indicator-sound.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/update-notifier-release.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/gpg-agent.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/indicator-keyboard.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/update-notifier-cds.log" 2017-11-19-16:41:26
+"/home/shenwan/.cache/upstart/upstart-event-bridge.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/window-stack-bridge.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/im-config.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/unity-settings-daemon.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/hud.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/unity7.log" 2017-12-18-9:9:35
+"/home/shenwan/.cache/upstart/at-spi2-registryd.log" 2017-11-19-17:39:8
+"/home/shenwan/.cache/upstart/dbus.log" 2017-12-18-9:9:35

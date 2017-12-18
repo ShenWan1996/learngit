@@ -1,0 +1,4 @@
+
+(process:2303): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.647995 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: 无此接口：com.ubuntu.AccountsService.Sound
+
+(process:2303): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.228012 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: 无此接口：com.ubuntu.AccountsService.Sound

@@ -1,0 +1,27 @@
+ERROR 2017-12-18 09:12:12 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+compiz (core) - Warn: Attempted to restack relative to 0x300029c which is not a child of the root window or a window compiz owns
+ERROR 2017-12-18 09:31:46 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2017-12-18 09:36:14 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2017-12-18 09:44:31 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+WARN  2017-12-18 09:58:34 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2017-12-18 10:25:44 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2017-12-18 10:31:20 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2017-12-18 10:42:32 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2017-12-18 10:55:39 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+ERROR 2017-12-18 11:22:46 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2017-12-18 11:23:17 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2017-12-18 11:23:31 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+WARN  2017-12-18 11:30:02 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: 无法打开目录
+WARN  2017-12-18 14:11:32 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+ERROR 2017-12-18 14:52:31 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+WARN  2017-12-18 15:07:42 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+ERROR 2017-12-18 15:55:37 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2017-12-18 16:03:40 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2017-12-18 16:16:59 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2017-12-18 16:21:28 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
